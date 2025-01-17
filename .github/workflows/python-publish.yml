@@ -1,4 +1,3 @@
-# Ce fichier doit être placé dans : .github/workflows/python-publish.yml
 
 name: Upload Python Package
 
